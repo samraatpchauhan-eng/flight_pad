@@ -17,13 +17,13 @@ Everything fits together precisely using a layered enclosure design. The case in
 
 ### Case Assembly & Fitment Exploded View
 *An isometric 3D CAD visualization highlighting how the PCB, switches, encoders, and structural enclosure layers interface together seamlessly.*
-[flight_pad_2026-Jun-16_03-59-39AM-000_CustomizedView15204062208.jpg]
+<img src="flight_pad/flight_pad_2026-Jun-16_03-59-39AM-000_CustomizedView15204062208.jpg" alt="Case Assembly and Fitment" width="500"/>
 
-[Case_Assembly&Fitment1.jpg]
+<img src="flight_pad/Case_Assembly&Fitment1.jpg" alt="Case Assembly and Fitment" width="500"/>
 
-[Case_Assembly&Fitment2.jpg]
+<img src="flight_pad/Case_Assembly&Fitment2.jpg" alt="Case Assembly and Fitment" width="500"/>
 
-[Case_Assembly&Fitment3.jpg]
+<img src="flight_pad/Case_Assembly&Fitment3.jpg" alt="Case Assembly and Fitment" width="500"/>
 
 *Designed completely from scratch in Autodesk Fusion 360.*
 
@@ -34,11 +34,12 @@ The underlying electronics were engineered in KiCad. The board features clean ro
 
 ### Schematic Design
 *The underlying circuit schematic mapping the switch matrix routing, diode placement, and dual encoder connections to the microcontroller.*
-[Electrical_Schematic_Diagram.png]
+<img src="flight_pad/Electrical_Schematic_Diagram.png" alt="Case Assembly and Fitment" width="500"/>
 
 ### PCB Layout Architecture
 *The routed printed circuit board design detailing trace paths, footprints, and physical alignment.*
-[PCB_Layout.png]
+<img src="flight_pad/PCB_Layout.png" alt="Case Assembly and Fitment" width="500"/>
+
 ---
 
 ## ⚡ Firmware Overview & Default Keymap
