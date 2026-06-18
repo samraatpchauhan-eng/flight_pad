@@ -67,7 +67,6 @@ Here is the complete component breakdown required to build the Flight Pad:
 * **9x** MX-Compatible Keycaps
 * **9x** 1N4148 DO-35 Switching Diodes *(Crucial for matrix isolation and anti-ghosting)*
 * **2x** EC11 Rotary Encoders with integrated push-switches
-* **2x** Encoder Control Knobs
 * **1x** Raspberry Pi RP2040 Microcontroller Board
 * **1x** Custom Case Enclosure (3D printed/CNC components)
 * **4x** M3x16mm screws
