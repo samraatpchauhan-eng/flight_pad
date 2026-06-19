@@ -4,7 +4,7 @@ Flight Pad is a custom 3x3 mechanical macro pad featuring dual EC11 rotary encod
 
 It is designed to streamline flight simulator camera controls, and media navigation with zero-latency input processing.
 
-## 🚀 Features:
+## Features:
 * **Custom Layout:** 3x3 Matrix Grid + 1 Integrated Encoder Switch (10 Keys Total).
 * **Dual Encoders:** Dual EC11 Encoders for precise, incremental simulator adjustments (like altitude, heading, or volume).
 * **Ergonomic Design:** Engineered with an integrated mechanical case tilt for comfortable desktop use.
@@ -12,7 +12,7 @@ It is designed to streamline flight simulator camera controls, and media navigat
 
 ---
 
-## 📐 CAD Model & Case Assembly
+## CAD Model & Case Assembly
 Everything fits together precisely using a layered enclosure design. The case includes structural mounting points for the PCB, plates, and components to ensure zero deck-flex during heavy use. Please note the keycaps used in these renders are generic .STEP models downloaded from the internet, and any standard MX keycap should work.
 
 ### Case Assembly & Fitment Exploded View
@@ -29,7 +29,7 @@ Everything fits together precisely using a layered enclosure design. The case in
 
 ---
 
-## 🔌 PCB Design
+## PCB Design
 The underlying electronics were engineered in KiCad. The board features clean routing paths optimized for the RP2040 pin configurations and a solid matrix layout to handle both the key switches and rotary encoders.
 
 ### Schematic Design
@@ -43,7 +43,7 @@ The underlying electronics were engineered in KiCad. The board features clean ro
 
 ---
 
-## ⚡ Firmware Overview & Default Keymap
+## Firmware Overview & Default Keymap
 This macro pad utilizes **QMK Firmware** for all input processing. The keys are configured in a standard matrix, while the encoders are tracked using hardware interrupts for maximum precision.
 
 ### Key Matrix (3x3 Grid)
@@ -53,14 +53,14 @@ This macro pad utilizes **QMK Firmware** for all input processing. The keys are 
 | **Row 1** | `9` | `5` | `8` |
 | **Row 2** | `L` | `C` | `R` |
 
-### 🔄 Rotary Encoder Functionality
+### Rotary Encoder Functionality
 * **Encoder 1 (Left/Volume):** * Clockwise: `Volume Up` | Counter-Clockwise: `Volume Down`
   * Integrated Push Switch: `MUTE`
 * **Encoder 2 (Right/Navigation):** * Clockwise: `Screen Brightness Down` | Counter-Clockwise: `Screen Brightness Up`
 
 ---
 
-## 📊 Bill of Materials (BOM)
+## Bill of Materials (BOM)
 Here is the complete component breakdown required to build the Flight Pad:
 
 * **9x** Cherry MX Mechanical Switches
@@ -73,7 +73,7 @@ Here is the complete component breakdown required to build the Flight Pad:
 
 ---
 
-## 💾 How to Flash
+## How to Flash
 1. Disconnect the USB cable from the Flight Pad.
 2. Press and hold the physical **BOOT** button on the RP2040 controller board.
 3. Reconnect the USB cable while holding the button, then release it.
@@ -83,5 +83,5 @@ Here is the complete component breakdown required to build the Flight Pad:
 
 ---
 
-## 🤖 AI Attribution Note
+## AI Attribution Note
 **Please Note that AI was utilized to format this .README file, aswell as some basic debugging of the Keyboard.JSON, and Keymap.C files in VS.Code**
