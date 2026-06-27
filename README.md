@@ -70,6 +70,7 @@ Here is the complete component breakdown required to build the Flight Pad:
 * **1x** Raspberry Pi RP2040 Microcontroller Board
 * **1x** Custom Case Enclosure (3D printed/CNC components)
 * **4x** M3x16mm screws
+* **1x** USB-C wire with data transfer
 
 ---
 
