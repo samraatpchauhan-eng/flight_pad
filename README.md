@@ -6,8 +6,8 @@ It is designed to streamline flight simulator camera controls, and media navigat
 
 ## Features:
 * **Custom Layout:** 3x3 Matrix Grid + 1 Integrated Encoder Switch (10 Keys Total).
-* **Dual Encoders:** Dual EC11 Encoders for precise, incremental simulator adjustments (like altitude, heading, or volume).
-* **Ergonomic Design:** Engineered with an integrated mechanical case tilt for comfortable desktop use.
+* **Dual Encoders:** Dual EC11 Encoders for precise, media adjustments (like brightness, or volume).
+* **Ergonomic Design:** Engineered for comfortable desktop use.
 * **RP2040 Power:** Driven by the RP2040 chip for rapid response times and effortless flashing.
 
 ---
@@ -56,7 +56,7 @@ This macro pad utilizes **QMK Firmware** for all input processing. The keys are 
 ### Rotary Encoder Functionality
 * **Encoder 1 (Left/Volume):** * Clockwise: `Volume Up` | Counter-Clockwise: `Volume Down`
   * Integrated Push Switch: `MUTE`
-* **Encoder 2 (Right/Navigation):** * Clockwise: `Screen Brightness Down` | Counter-Clockwise: `Screen Brightness Up`
+* **Encoder 2 (Right/Brightness):** * Clockwise: `Screen Brightness Down` | Counter-Clockwise: `Screen Brightness Up`
 
 ---
 
