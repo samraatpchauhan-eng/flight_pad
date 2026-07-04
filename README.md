@@ -17,15 +17,16 @@ Everything fits together precisely using a layered enclosure design. The case in
 
 ### Case Assembly & Fitment Exploded View
 *An isometric 3D CAD visualization highlighting how the PCB, switches, encoders, and structural enclosure layers interface together seamlessly.*
-<img src="flight_pad/flight_pad_2026-Jun-16_03-59-39AM-000_CustomizedView15204062208.jpg" alt="Case Assembly and Fitment" width="500"/>
 
-<img src="flight_pad/Case_Assembly&Fitment1.jpg" alt="Case Assembly and Fitment" width="500"/>
+<img width="1920" height="1440" alt="flight_pad_2026-Jun-16_03-59-39AM-000_CustomizedView15204062208" src="https://github.com/user-attachments/assets/a52d414a-1786-48f1-b706-a618cae95838" />
 
-<img src="flight_pad/Case_Assembly&Fitment2.jpg" alt="Case Assembly and Fitment" width="500"/>
+<img width="490" height="577" alt="Case_Assembly Fitment3" src="https://github.com/user-attachments/assets/32c04a14-b407-429f-bca6-210585d88565" />
 
-<img src="flight_pad/Case_Assembly&Fitment3.jpg" alt="Case Assembly and Fitment" width="500"/>
+<img width="552" height="651" alt="Case_Assembly Fitment2" src="https://github.com/user-attachments/assets/e7864b42-46c4-44ec-98c8-03551f7eb34e" />
 
-*Designed completely from scratch in Autodesk Fusion 360.*
+<img width="858" height="817" alt="Case_Assembly Fitment1" src="https://github.com/user-attachments/assets/bb532b33-610c-4723-ba97-c04285c5f0f7" />
+
+
 
 ---
 
@@ -34,12 +35,13 @@ The underlying electronics were engineered in KiCad. The board features clean ro
 
 ### Schematic Design
 *The underlying circuit schematic mapping the switch matrix routing, diode placement, and dual encoder connections to the microcontroller.*
-<img src="flight_pad/Electrical_Schematic_Diagram.png" alt="Case Assembly and Fitment" width="500"/>
+
+<img width="1569" height="824" alt="Electrical_Schematic_Diagram" src="https://github.com/user-attachments/assets/13821b64-ee1f-4d83-ac3a-8cf2f83e458d" />
 
 ### PCB Layout Architecture
 *The routed printed circuit board design detailing trace paths, footprints, and physical alignment.*
 
-<img src="flight_pad/PCB_Layout.png" alt="Case Assembly and Fitment" width="500"/>
+<img width="1150" height="1194" alt="PCB_Layout" src="https://github.com/user-attachments/assets/b3d9472c-f2ce-40f6-be02-54c94e1141a8" />
 
 ---
 
@@ -49,8 +51,8 @@ This macro pad utilizes **QMK Firmware** for all input processing. The keys are 
 ### Key Matrix (3x3 Grid)
 | Row | Column 1 | Column 2 | Column 3 |
 | :--- | :---: | :---: | :---: |
-| **Row 0** | `6` | `1` | `7` |
-| **Row 1** | `9` | `5` | `8` |
+| **Row 0** | `Ctrl+6` | `Ctrl+1` | `Ctrl+7` |
+| **Row 1** | `Ctrl+9` | `Ctrl+5` | `Ctrl+8` |
 | **Row 2** | `L` | `C` | `R` |
 
 ### Rotary Encoder Functionality
