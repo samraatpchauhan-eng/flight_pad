@@ -85,4 +85,4 @@ Here is the complete component breakdown required to build the Flight Pad:
 ---
 
 ## AI Attribution Note
-**Please Note that AI was utilized to format this .README file, aswell as some basic debugging of the Keyboard.JSON, and Keymap.C files in VS.Code**
+**Please Note that AI was utilized for some basic debugging of the Keyboard.JSON, and Keymap.C files in VS.Code**
