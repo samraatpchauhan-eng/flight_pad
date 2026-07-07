@@ -41,7 +41,7 @@ The underlying electronics were engineered in KiCad. The board features clean ro
 ### PCB Layout Architecture
 *The routed printed circuit board design detailing trace paths, footprints, and physical alignment.*
 
-<img width="1150" height="1194" alt="PCB_Layout" src="https://github.com/user-attachments/assets/b3d9472c-f2ce-40f6-be02-54c94e1141a8" />
+<img width="834" height="848" alt="Screenshot 2026-07-07 153451" src="https://github.com/user-attachments/assets/1b796fd9-1edb-4bb2-b3f8-b9f09ebd0d1c" />
 
 ---
 
