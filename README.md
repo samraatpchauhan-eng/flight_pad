@@ -1,5 +1,7 @@
 # Flight Pad (RP2040 Custom Macro Pad)
 
+<img width="346" height="264" alt="image" src="https://github.com/user-attachments/assets/05f6a6f4-c5d4-4194-93c0-91692a5cca60" />
+
 Flight Pad is a custom 3x3 mechanical macro pad featuring dual EC11 rotary encoders, built entirely on the high-performance **Raspberry Pi RP2040** microcontroller architecture and powered by **QMK Firmware**. 
 
 It is designed to streamline flight simulator camera controls, and media navigation with zero-latency input processing.
